@@ -1,0 +1,12 @@
+names:
+- Mosquito Killer
+nc: 1
+roboflow:
+  license: Private
+  project: test-project-dbapt
+  url: https://app.roboflow.com/nestor-kalambay/test-project-dbapt/1
+  version: 1
+  workspace: nestor-kalambay
+test: ../test/images
+train: ../train/images
+val: ../valid/images
